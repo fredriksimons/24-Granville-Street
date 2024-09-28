@@ -1026,7 +1026,7 @@
 <scene name="pano29192"
        heading="0"
        group="panogroup2988"
-       thumburl="%FIRSTXML%/_24granville20222_29192/thumbnail.jpg"
+       thumburl="%FIRSTXML%/24granville20222_29192/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="true"
        haspolygons="false"
@@ -1051,40 +1051,40 @@
           fov="90.000000"
           hlookat="0.000000"
           vlookat="0.000000"/>
-    <preview url="%FIRSTXML%/_24granville20222_29192/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/24granville20222_29192/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="2560" tiledimageheight="2560">
-          <front url="_24granville20222_29192/0/2/%v_%u.jpg"/>
-          <right url="_24granville20222_29192/1/2/%v_%u.jpg"/>
-          <back  url="_24granville20222_29192/2/2/%v_%u.jpg"/>
-          <left  url="_24granville20222_29192/3/2/%v_%u.jpg"/>
-          <up    url="_24granville20222_29192/4/2/%v_%u.jpg"/>
-          <down  url="_24granville20222_29192/5/2/%v_%u.jpg"/>
+          <front url="24granville20222_29192/0/2/%v_%u.jpg"/>
+          <right url="24granville20222_29192/1/2/%v_%u.jpg"/>
+          <back  url="24granville20222_29192/2/2/%v_%u.jpg"/>
+          <left  url="24granville20222_29192/3/2/%v_%u.jpg"/>
+          <up    url="24granville20222_29192/4/2/%v_%u.jpg"/>
+          <down  url="24granville20222_29192/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1536" tiledimageheight="1536">
-          <front url="_24granville20222_29192/0/1/%v_%u.jpg"/>
-          <right url="_24granville20222_29192/1/1/%v_%u.jpg"/>
-          <back  url="_24granville20222_29192/2/1/%v_%u.jpg"/>
-          <left  url="_24granville20222_29192/3/1/%v_%u.jpg"/>
-          <up    url="_24granville20222_29192/4/1/%v_%u.jpg"/>
-          <down  url="_24granville20222_29192/5/1/%v_%u.jpg"/>
+          <front url="24granville20222_29192/0/1/%v_%u.jpg"/>
+          <right url="24granville20222_29192/1/1/%v_%u.jpg"/>
+          <back  url="24granville20222_29192/2/1/%v_%u.jpg"/>
+          <left  url="24granville20222_29192/3/1/%v_%u.jpg"/>
+          <up    url="24granville20222_29192/4/1/%v_%u.jpg"/>
+          <down  url="24granville20222_29192/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_24granville20222_29192/0/0/%v_%u.jpg"/>
-          <right url="_24granville20222_29192/1/0/%v_%u.jpg"/>
-          <back  url="_24granville20222_29192/2/0/%v_%u.jpg"/>
-          <left  url="_24granville20222_29192/3/0/%v_%u.jpg"/>
-          <up    url="_24granville20222_29192/4/0/%v_%u.jpg"/>
-          <down  url="_24granville20222_29192/5/0/%v_%u.jpg"/>
+          <front url="24granville20222_29192/0/0/%v_%u.jpg"/>
+          <right url="24granville20222_29192/1/0/%v_%u.jpg"/>
+          <back  url="24granville20222_29192/2/0/%v_%u.jpg"/>
+          <left  url="24granville20222_29192/3/0/%v_%u.jpg"/>
+          <up    url="24granville20222_29192/4/0/%v_%u.jpg"/>
+          <down  url="24granville20222_29192/5/0/%v_%u.jpg"/>
       </level>
     </image>
     <image type="CUBE" devices="androidstock.and.no-webgl">
-      <front url="_24granville20222_29192/mobile/0.jpg"/>
-      <right url="_24granville20222_29192/mobile/1.jpg"/>
-      <back  url="_24granville20222_29192/mobile/2.jpg"/>
-      <left  url="_24granville20222_29192/mobile/3.jpg"/>
-      <up    url="_24granville20222_29192/mobile/4.jpg"/>
-      <down  url="_24granville20222_29192/mobile/5.jpg"/>
+      <front url="24granville20222_29192/mobile/0.jpg"/>
+      <right url="24granville20222_29192/mobile/1.jpg"/>
+      <back  url="24granville20222_29192/mobile/2.jpg"/>
+      <left  url="24granville20222_29192/mobile/3.jpg"/>
+      <up    url="24granville20222_29192/mobile/4.jpg"/>
+      <down  url="24granville20222_29192/mobile/5.jpg"/>
     </image>
 
 
@@ -1337,7 +1337,7 @@
 <scene name="pano29194"
        heading="0"
        group="panogroup2988"
-       thumburl="%FIRSTXML%/_24granville20224_29194/thumbnail.jpg"
+       thumburl="%FIRSTXML%/24granville20224_29194/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="true"
        haspolygons="false"
@@ -1362,40 +1362,40 @@
           fov="90.000000"
           hlookat="0.000000"
           vlookat="0.000000"/>
-    <preview url="%FIRSTXML%/_24granville20224_29194/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
+    <preview url="%FIRSTXML%/24granville20224_29194/preview.jpg" type="CUBESTRIP" striporder="FRBLUD" />
     <image type="CUBE" multires="true" baseindex="0" tilesize="512" devices="!androidstock|webgl">
       <level tiledimagewidth="2560" tiledimageheight="2560">
-          <front url="_24granville20224_29194/0/2/%v_%u.jpg"/>
-          <right url="_24granville20224_29194/1/2/%v_%u.jpg"/>
-          <back  url="_24granville20224_29194/2/2/%v_%u.jpg"/>
-          <left  url="_24granville20224_29194/3/2/%v_%u.jpg"/>
-          <up    url="_24granville20224_29194/4/2/%v_%u.jpg"/>
-          <down  url="_24granville20224_29194/5/2/%v_%u.jpg"/>
+          <front url="24granville20224_29194/0/2/%v_%u.jpg"/>
+          <right url="24granville20224_29194/1/2/%v_%u.jpg"/>
+          <back  url="24granville20224_29194/2/2/%v_%u.jpg"/>
+          <left  url="24granville20224_29194/3/2/%v_%u.jpg"/>
+          <up    url="24granville20224_29194/4/2/%v_%u.jpg"/>
+          <down  url="24granville20224_29194/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1536" tiledimageheight="1536">
-          <front url="_24granville20224_29194/0/1/%v_%u.jpg"/>
-          <right url="_24granville20224_29194/1/1/%v_%u.jpg"/>
-          <back  url="_24granville20224_29194/2/1/%v_%u.jpg"/>
-          <left  url="_24granville20224_29194/3/1/%v_%u.jpg"/>
-          <up    url="_24granville20224_29194/4/1/%v_%u.jpg"/>
-          <down  url="_24granville20224_29194/5/1/%v_%u.jpg"/>
+          <front url="24granville20224_29194/0/1/%v_%u.jpg"/>
+          <right url="24granville20224_29194/1/1/%v_%u.jpg"/>
+          <back  url="24granville20224_29194/2/1/%v_%u.jpg"/>
+          <left  url="24granville20224_29194/3/1/%v_%u.jpg"/>
+          <up    url="24granville20224_29194/4/1/%v_%u.jpg"/>
+          <down  url="24granville20224_29194/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1024" tiledimageheight="1024">
-          <front url="_24granville20224_29194/0/0/%v_%u.jpg"/>
-          <right url="_24granville20224_29194/1/0/%v_%u.jpg"/>
-          <back  url="_24granville20224_29194/2/0/%v_%u.jpg"/>
-          <left  url="_24granville20224_29194/3/0/%v_%u.jpg"/>
-          <up    url="_24granville20224_29194/4/0/%v_%u.jpg"/>
-          <down  url="_24granville20224_29194/5/0/%v_%u.jpg"/>
+          <front url="24granville20224_29194/0/0/%v_%u.jpg"/>
+          <right url="24granville20224_29194/1/0/%v_%u.jpg"/>
+          <back  url="24granville20224_29194/2/0/%v_%u.jpg"/>
+          <left  url="24granville20224_29194/3/0/%v_%u.jpg"/>
+          <up    url="24granville20224_29194/4/0/%v_%u.jpg"/>
+          <down  url="24granville20224_29194/5/0/%v_%u.jpg"/>
       </level>
     </image>
     <image type="CUBE" devices="androidstock.and.no-webgl">
-      <front url="_24granville20224_29194/mobile/0.jpg"/>
-      <right url="_24granville20224_29194/mobile/1.jpg"/>
-      <back  url="_24granville20224_29194/mobile/2.jpg"/>
-      <left  url="_24granville20224_29194/mobile/3.jpg"/>
-      <up    url="_24granville20224_29194/mobile/4.jpg"/>
-      <down  url="_24granville20224_29194/mobile/5.jpg"/>
+      <front url="24granville20224_29194/mobile/0.jpg"/>
+      <right url="24granville20224_29194/mobile/1.jpg"/>
+      <back  url="24granville20224_29194/mobile/2.jpg"/>
+      <left  url="24granville20224_29194/mobile/3.jpg"/>
+      <up    url="24granville20224_29194/mobile/4.jpg"/>
+      <down  url="24granville20224_29194/mobile/5.jpg"/>
     </image>
 
 
